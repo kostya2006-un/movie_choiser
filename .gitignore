@@ -1,3 +1,5 @@
 .idea
 /movie/db.sqlite3
 /movie/app/migrations
+
+
